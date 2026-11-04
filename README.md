@@ -1,0 +1,1 @@
+# MFDFA-Scale-curvature
