@@ -1,0 +1,36 @@
+{
+  "n_NSR": 283,
+  "n_APB": 66,
+  "per_feature": {
+    "h2": {
+      "AUC": 0.771,
+      "cohen_d": 1.01
+    },
+    "h_width": {
+      "AUC": 0.529,
+      "cohen_d": 0.07
+    },
+    "Guu": {
+      "AUC": 0.591,
+      "cohen_d": 0.29
+    },
+    "Guq": {
+      "AUC": 0.521,
+      "cohen_d": -0.04
+    },
+    "dh_scale_absmean": {
+      "AUC": 0.582,
+      "cohen_d": -0.22
+    },
+    "retained": {
+      "AUC": 0.528,
+      "cohen_d": 0.15
+    }
+  },
+  "loo_balanced_accuracy": {
+    "width_only": 0.53,
+    "curvature": 0.56,
+    "h2_plus_curvature": 0.712,
+    "all": 0.746
+  }
+}
